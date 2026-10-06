@@ -25,7 +25,6 @@ Each row contains seven separate coded scores. KNN uses Euclidean distance with 
 
 ### Source details
 
-- Antennae: the table and code use **2.5** for one pair; the slide's text key says **1.5**. This website follows the table and code.
 - Leg counts appear to describe pairs: three for insects and four for arachnids. This unit is inferred from the table.
 - The slide labels respiration categories “Lungs” (1) and “Gills” (4). These are source labels, not reliable descriptions for every represented group. The supplied numeric rows are reproduced for model exploration.
 - The PPT table contains four class references and one beetle sample. A nine-species dataset is not included.
